@@ -1,0 +1,48 @@
+.cm-container {
+    position: relative;
+    padding: 1rem;
+    margin: 1rem 1rem 1rem;
+    border: solid #f7f7f9;
+    border-width: 0.2rem 0 0;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+/* linkedin */
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+/* youtube */
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+/* instagram */
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
